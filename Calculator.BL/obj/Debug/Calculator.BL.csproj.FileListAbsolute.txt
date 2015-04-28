@@ -1,0 +1,5 @@
+C:\projects\Scio talks\TDD intro\Calculator.BL\bin\Debug\Calculator.BL.dll
+C:\projects\Scio talks\TDD intro\Calculator.BL\bin\Debug\Calculator.BL.pdb
+C:\projects\Scio talks\TDD intro\Calculator.BL\obj\Debug\Calculator.BL.csprojResolveAssemblyReference.cache
+C:\projects\Scio talks\TDD intro\Calculator.BL\obj\Debug\Calculator.BL.dll
+C:\projects\Scio talks\TDD intro\Calculator.BL\obj\Debug\Calculator.BL.pdb

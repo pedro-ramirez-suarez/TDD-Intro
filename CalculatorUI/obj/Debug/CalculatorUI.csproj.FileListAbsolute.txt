@@ -1,0 +1,11 @@
+C:\projects\Scio talks\TDD intro\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.csprojResolveAssemblyReference.cache
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.Cache
+C:\projects\Scio talks\TDD intro\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\projects\Scio talks\TDD intro\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\projects\Scio talks\TDD intro\CalculatorUI\bin\Debug\Calculator.BL.dll
+C:\projects\Scio talks\TDD intro\CalculatorUI\bin\Debug\Calculator.BL.pdb
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.exe
+C:\projects\Scio talks\TDD intro\CalculatorUI\obj\Debug\CalculatorUI.pdb

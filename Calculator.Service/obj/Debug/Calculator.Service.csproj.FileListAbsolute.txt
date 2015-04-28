@@ -1,0 +1,8 @@
+C:\projects\Scio talks\TDD intro\Calculator.Service\bin\Calculator.Service.dll.config
+C:\projects\Scio talks\TDD intro\Calculator.Service\bin\Calculator.Service.dll
+C:\projects\Scio talks\TDD intro\Calculator.Service\bin\Calculator.Service.pdb
+C:\projects\Scio talks\TDD intro\Calculator.Service\bin\Calculator.BL.dll
+C:\projects\Scio talks\TDD intro\Calculator.Service\bin\Calculator.BL.pdb
+C:\projects\Scio talks\TDD intro\Calculator.Service\obj\Debug\Calculator.Service.csprojResolveAssemblyReference.cache
+C:\projects\Scio talks\TDD intro\Calculator.Service\obj\Debug\Calculator.Service.dll
+C:\projects\Scio talks\TDD intro\Calculator.Service\obj\Debug\Calculator.Service.pdb

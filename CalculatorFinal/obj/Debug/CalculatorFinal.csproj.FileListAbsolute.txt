@@ -1,0 +1,13 @@
+C:\projects\Scio talks\TDD intro\CalculatorFinal\bin\Debug\CalculatorFinal.exe.config
+C:\projects\Scio talks\TDD intro\CalculatorFinal\bin\Debug\CalculatorFinal.exe
+C:\projects\Scio talks\TDD intro\CalculatorFinal\bin\Debug\CalculatorFinal.pdb
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.csprojResolveAssemblyReference.cache
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\MainWindow.baml
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\MainWindow.g.cs
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\App.g.cs
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal_MarkupCompile.cache
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.g.resources
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.Properties.Resources.resources
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.csproj.GenerateResource.Cache
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.exe
+C:\projects\Scio talks\TDD intro\CalculatorFinal\obj\Debug\CalculatorFinal.pdb

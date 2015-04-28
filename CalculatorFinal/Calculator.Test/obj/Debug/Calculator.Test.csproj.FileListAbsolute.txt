@@ -1,0 +1,11 @@
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.Test.dll
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.Test.pdb
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.BL.dll
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Moq.dll
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.BL.pdb
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Moq.xml
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\obj\Debug\Calculator.Test.dll
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\obj\Debug\Calculator.Test.pdb
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.Service.dll
+C:\projects\Scio talks\TDD intro\CalculatorFinal\Calculator.Test\bin\Debug\Calculator.Service.pdb
